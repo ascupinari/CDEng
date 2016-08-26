@@ -1,4 +1,4 @@
-﻿Coluna;Tamanho;Título
+Coluna;Tamanho;Título
 V0101;4 ;Ano de referência
 UF   ;2 ;Unidade da Federação
 V0102;6 ;Número de controle
